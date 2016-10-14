@@ -1,0 +1,31 @@
+
+#footer{
+	background-image: url("../images/background.jpg");
+}
+.green{
+	color:green;
+}
+.greenbold{
+	color:green;
+	font-weight:bold;
+}
+.bold{
+	font-weight:bold;
+}
+.ital{
+	font-style:italic;
+}
+#white{
+	color:white;
+	background-color:#090;
+	height:40px;
+	background-repeat:repeat-x;
+}
+#big{
+	font-weight:bolder;
+	font
+}
+#banner{
+	background-image: url("../images/banner2.jpg");
+	background-repeat:no-repeat;
+}
